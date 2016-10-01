@@ -33,3 +33,11 @@
     color: #777777;
     margin-bottom: 20px;
 }
+@media (max-width: 780px) 
+{
+  #title h1, h2{
+        font-family: oswald;
+        text-align: left;
+        color: #2e2e2e;
+    }  
+}
